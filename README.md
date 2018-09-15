@@ -8,4 +8,3 @@ Simple memory game in C/C++
 - This simple game was made for the purpose of academic learning
 - Initially developed for Windows operating system. Some code lines are not recogized/compiled in Linux systems
 - The Conio.c library is needed
-...
